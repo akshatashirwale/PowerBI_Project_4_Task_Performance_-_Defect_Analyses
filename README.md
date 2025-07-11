@@ -6,6 +6,8 @@
 
 The **Quality Analysis Dashboard** provides a comprehensive view of operational performance using key quality metrics such as **defect rates**, **error percentages**, and **quality scores** across various departments, managers, employees, and geographic locations. The aim is to **identify quality trends**, **highlight areas for improvement**, and **enhance decision-making** through rich data visualization in **Power BI**.
 
+Auditing and assessing task quality across departments (Sales, Finance, Backoffice) by tracking errors, defects, and performance metrics over time, by location, and by individuals (employees, managers, and auditors).
+
 ---
 
 ## 🎯 Objectives
